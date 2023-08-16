@@ -1,11 +1,11 @@
-![img|320x271,50%](https://github.com/Nureex/Files/blob/master/Photos/Loops.gif)
+![img|400x250,50%](https://github.com/Nureex/Files/blob/master/Photos/Loops.gif)
 
 # Functions And Nested Loops
 ### A nested loop is when you have a loop inside another loop's body.
 
 Note: You need to create your main.h file first, which should include the prototypes of all your functions and the _putchar function. (See the resources below for your reference)
-** The main.h file is the header file that contains all the function prototypes used in this project... >>>> THIS FILE IS VERY IMPORTANT
-==> File: 0-putchar.c is a program that prints -putchar, followed by a new line.
+##The `main.h` file is the header file that contains all the function prototypes used in this project... >>>> THIS FILE IS VERY IMPORTANT
+==> File: '0-putchar.c' is a program that prints -putchar, followed by a new line.
 ==> File: 1-alphabet.c is a function that prints the lowercase alphabet, followed by a new line.
 ==> File: 2-print_alphabet_x10.c is a function that prints the lowercase alphabet 10 times, followed by a new line.
 ==> File: 3-islower.c is a function that checks if a character is lowercase.
