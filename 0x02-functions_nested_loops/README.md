@@ -1,3 +1,4 @@
+#Functions And Nested Loops
 A nested loop is when you have a loop inside another loop's body.
 
 Note: You need to create your main.h file first, which should include the prototypes of all your functions and the _putchar function. (See the resources below for your reference)
