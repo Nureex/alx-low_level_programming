@@ -1,4 +1,4 @@
-![img|400px:250px,50%](https://github.com/Nureex/Files/blob/master/Photos/Loops.gif)
+<img src="https://github.com/Nureex/Files/blob/master/Photos/Loops.gif" width="60" height="40">
 
 # Functions And Nested Loops
 ### A nested loop is when you have a loop inside another loop's body.
