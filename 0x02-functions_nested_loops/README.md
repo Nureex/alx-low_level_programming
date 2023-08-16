@@ -1,4 +1,4 @@
-![Text](https://github.com/Nureex/Files/blob/master/Photos/Loops.gif=400x400)
+[![Text](https://github.com/Nureex/Files/blob/master/Photos/Loops.gif=400x400)](https://github.com/Nureex/Files/blob/master/Photos/Loops.gif?raw=true)
 
 # Functions And Nested Loops
 ### A nested loop is when you have a loop inside another loop's body.
