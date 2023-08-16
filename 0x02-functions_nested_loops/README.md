@@ -5,7 +5,7 @@
 
 Note: You need to create your main.h file first, which should include the prototypes of all your functions and the _putchar function. (See the resources below for your reference)
 ##The `main.h` file is the header file that contains all the function prototypes used in this project... >>>> THIS FILE IS VERY IMPORTANT
-### - [**0-Putchar**](0-putchar.c): is a program that prints -putchar, followed by a new line.
+#### [**0-Putchar**](0-putchar.c): is a program that prints -putchar, followed by a new line.
 ### ==> File: `1-alphabet.c` is a function that prints the lowercase alphabet, followed by a new line.
 ### ==> File: `2-print_alphabet_x10.`c is a function that prints the lowercase alphabet 10 times, followed by a new line.
 ### ==> File: 3-islower.c is a function that checks if a character is lowercase.
