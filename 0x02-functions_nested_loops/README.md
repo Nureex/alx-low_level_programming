@@ -1,4 +1,4 @@
-<img src="https://github.com/Nureex/Files/blob/master/Photos/Loops.gif" width="60" height="40">
+<img src="https://github.com/Nureex/Files/blob/master/Photos/Loops.gif" width="100" height="100">
 
 # Functions And Nested Loops
 ### A nested loop is when you have a loop inside another loop's body.
