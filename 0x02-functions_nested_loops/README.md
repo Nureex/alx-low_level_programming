@@ -3,7 +3,7 @@
 # Functions And Nested Loops
 ### A nested loop is when you have a loop inside another loop's body.
 
-Note: You need to create your main.h file first, which should include the prototypes of all your functions and the _putchar function. (See the resources below for your reference)
+![#f03c15] `Note:` You need to create your main.h file first, which should include the prototypes of all your functions and the _putchar function. (See the resources below for your reference)
 ##The `main.h` file is the header file that contains all the function prototypes used in this project... >>>> THIS FILE IS VERY IMPORTANT
 - [**0-Putchar**](0-putchar.c):  is a program that prints -putchar, followed by a new line.
 - [**1-Alphabet**](1-alphabet.c):  is a function that prints the lowercase alphabet, followed by a new line.
