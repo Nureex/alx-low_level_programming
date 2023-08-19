@@ -1,6 +1,6 @@
 # Debugging Practice Project
 
-<img src="https://github.com/Nureex/Files/blob/master/Photos/duck1.jpg" alt="Rubber Duck" width="300" height="250">
+<img src="https://github.com/Nureex/Files/blob/master/Photos/duck1.jpg" alt="Rubber Duck" width="350" height="200">
 
 
 Welcome to my **Debugging Practice Project**! 🚀 In this project, I've embarked on a journey of identifying and fixing errors in software. I'm elated to announce that I've triumphed over all the challenges! Let's dive into my accomplishments:
