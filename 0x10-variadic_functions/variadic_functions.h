@@ -1,5 +1,5 @@
-#ifndef _VARIADIC_FUNCTIONS_H_
-#define _VARIADIC_FUNCTIONS_H_
+#ifndef VARIADIC_FUNCTIONS_H
+#define VARIADIC_FUNCTIONS_H
 
 #include <stdio.h>
 #include <stdarg.h>
@@ -25,4 +25,3 @@ void print_f(va_list);
 void print_s(va_list);
 
 #endif
-
