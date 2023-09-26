@@ -2,6 +2,7 @@
 #include <stdio.h>
 
 /**
+ * Prints elements of a singly linked lists
  * print_list int - Prints elements of a singly linked lists.
  * Return: Integer.
  **/
