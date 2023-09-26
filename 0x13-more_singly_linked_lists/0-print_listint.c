@@ -1,8 +1,9 @@
 #include "lists.h"
 
 /**
- * Prints elements of a singly linked lists
- * print_list int - Prints elements of a singly linked lists.
+ * print_listint - Prints elements of a singly linked list
+ * @k: Pointer to a list
+ * Prints elements of a singly linked lists.
  * Return: Integer.
  **/
 
