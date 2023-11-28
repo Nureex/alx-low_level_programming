@@ -1,6 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_N
-// Header files
+
 #include <unistd.h>
 #include <fcntl.h>
 #include <sys/types.h>
