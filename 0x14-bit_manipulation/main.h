@@ -1,7 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/*prototype to work with*/
+/* prototype to work with */
 int get_endianness(void);
 int _putchar(char c);
 unsigned int binary_to_uint(const char *b);
